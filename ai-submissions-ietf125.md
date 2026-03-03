@@ -39,3 +39,17 @@
 | draft-mpsb-agntcy-messaging-01 An Overview of Messaging Systems and Their Applicability to Agentic AI |Inter-agent|
 | draft-mp-agntcy-ads-01 Agent Directory Service |Discovery|
 | draft-zhang-dmsc-ioa-semantic-interaction-01 Ontology-based Semantic Interaction for Internet of Agents |Inter-agent|
+
+# LLM/AI Benchmarking
+
+   1. *Terminology: *metrics definitions (TTFT, ITL, TPOT, etc.)
+   https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-terminology/
+   2. *Methodology: *test procedures, workloads, and reporting formats
+   https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-methodology/
+   3. *Profiles: *SUT boundary definitions for model engines, AI gateways,
+   AI firewalls, and compound systems
+
+  *   https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-terminology/
+  *   https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-training-bench/
+  *   https://datatracker.ietf.org/doc/draft-calabria-bmwg-ai-fabric-inference-bench/
+   https://datatracker.ietf.org/doc/draft-gaikwad-llm-benchmarking-profiles/
