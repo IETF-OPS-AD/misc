@@ -1,14 +1,14 @@
 # Overview
 
-* [Network Management](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#network-management)
-* [AI/LLM Benchmarkig](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#llmai-benchmarking)
-* [Discovery](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#discovery)
-* [Transport](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#transport)
-* [Authentication & Authorization](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#authentication--authorization)
-* [Inter-agent](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#inter-agent)
-* [Misc.](https://github.com/IETF-OPS-AD/misc/edit/main/ai-submissions-ietf125.md#misc)
+* Network Management
+* AI/LLM Benchmarkig
+* Discovery
+* Transport
+* Authentication & Authorization
+* Inter-agent
+* Misc.
 
-# Network Management
+# Network Management {#nm}
 
 * [draft-wmz-nmrg-agent-ndt-arch Network Digital](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch): Network Digital Twin and Agentic AI based Architecture for AI driven Network Operations
 * [draft-hong-nmrg-agenticai-ps](https://datatracker.ietf.org/doc/draft-hong-nmrg-agenticai-ps): Motivations and Problem Statement of Agentic AI for network management
