@@ -1,7 +1,7 @@
 # Overview
 
 * Network Management
-* AI/LLM Benchmarkig
+* AI/LLM Benchmarking
 * Discovery
 * Transport
 * Authentication & Authorization
