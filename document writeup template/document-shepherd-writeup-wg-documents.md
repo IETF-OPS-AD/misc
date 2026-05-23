@@ -13,6 +13,10 @@
    Note that some numbered items contain multiple related questions;
    please be sure to answer all of them.
 
+   Some of the questions may not be applicable for a given document.
+   Feel free to indicate N/A or simply remove the question from
+   your final write-up.
+
 ## Document History
 
    1.   Does the working group (WG) consensus represent the strong
