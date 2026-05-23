@@ -43,8 +43,7 @@
         those reviews.
 
    6.   Describe how the document meets any required formal expert
-        review criteria, such as the YANG Doctor, media type, and URI
-        reviews.
+        review criteria, such as media type and URI reviews.
 
    7.   If the document contains a YANG module, does the document’s
         Datatracker page indicate that it has no errors and warnings?
