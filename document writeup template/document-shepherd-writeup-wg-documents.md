@@ -59,6 +59,12 @@
         sections of the document written in a formal language, such as
         XML, JSON code, ABNF/RBNF/BNF rules, ASN.1, CBOR's CDDL, etc.
 
+   9.   Does the document describe any elements that are intended for
+        human interpretation and understanding? If so, does the document
+        contain an Internationalization Considerations section that
+        describes how those protocol elements are suitable for
+        international use?
+
 ## Document Shepherd Checks
 
    9.   Will publication of the document be consistent with the
