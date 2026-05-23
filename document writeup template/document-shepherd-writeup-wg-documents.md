@@ -84,8 +84,7 @@
    13.  If the document uses BCP 14 key words [18], does the document
         follow the guidance in [19]?
 
-        Is there any use of the BCP 14 key words that could be
-        considered unclear or inappropriate?
+        Have you noted any unclear or inappropriate use of key words?
 
    15.  Have reasonable efforts (e.g., WGLC via the Datatracker) been
         made to remind the WG of the intellectual property rights (IPR)
