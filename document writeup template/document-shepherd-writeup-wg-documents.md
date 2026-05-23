@@ -13,7 +13,7 @@
    Note that some numbered items contain multiple related questions;
    please be sure to answer all of them.
 
-## Document History
+## Document History & Implementations
 
    1.   Does the working group (WG) consensus represent the strong
         concurrence of a few individuals, with others being silent, or
@@ -28,13 +28,17 @@
         (NOTE: This should be in a separate email because this filled
         questionnaire will be publicly available.)
 
-   4.   For protocol documents, are there existing implementations of
-        the contents of the document?  If so, are those implementations
-        reported somewhere, either in the document itself (as [RFC
-        7942][3] recommends) or elsewhere (please state where)?
+   4.   For protocol documents, indidate whether there is an implementation
+        policy put in place by the WG. If so, please remind that policy
+        and indicate whether thsis document adheres to that policy.  
+     
+        Are there existing implementations of the contents of the document?
+        If so, are those implementations reported somewhere, either in
+        the document itself (as [RFC 7942][3] recommends) or elsewhere
+        (please state where)?
 
         Have potential implementers indicated their plans to
-        implement?
+        implement?   
 
 ## Additional Reviews
 
