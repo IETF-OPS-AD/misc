@@ -81,6 +81,11 @@
 
         Why is this the appropriate type of RFC?
 
+   21.  Will publication of this document change the status of any
+        existing RFC(s)?  If so, does the Datatracker status page for
+        this document correctly list those RFCs on the Title page,
+        in the Abstract, and in the Introduction of the document?
+
    13.  If the document uses BCP 14 key words [18], does the document
         follow the guidance in [19]?
 
@@ -122,11 +127,6 @@
    20.  Are there normative references to documents that are not ready
         to be submitted to the IESG for publication or are otherwise in
         an unclear state?  If so, what is the plan for their completion?
-
-   21.  Will publication of this document change the status of any
-        existing RFC(s)?  If so, does the Datatracker metadata correctly
-        list those RFCs on the title page, in the abstract, and in the
-        introduction?
 
 ### IANA Considerations
 
