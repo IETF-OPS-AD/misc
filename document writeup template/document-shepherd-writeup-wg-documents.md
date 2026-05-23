@@ -40,7 +40,7 @@
 
    5.   Have reviews for the document happened in other IETF WGs or
         external organizations?  If so, please provide references to
-        those reviews.
+        those reviews (if any).
 
    6.   Describe how the document meets any required formal expert
         review criteria, such as the YANG Doctor, media type, and URI
