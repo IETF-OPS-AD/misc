@@ -100,11 +100,16 @@
         is greater than five, please provide a justification.
 
    16.  Please list any remaining I-D nits in the version of the
-        document you reviewed.  Simply running the [idnits tool][8] is
-        not enough; please review the ["Content Guidelines" on
-        authors.ietf.org][15].  Idnits may display false positives;
-        please flag those and please explain as needed.
+        document you reviewed that you feel are actual errors. Simply
+        running the [idnits tool][8] is not enough; please review
+        the ["Content Guidelines" on authors.ietf.org][15].  Idnits may
+        display false positives; please flag those and please briefly
+        explain as needed.
 
+        (NOTE: No need to provide explanation for common false positives
+        that are self-explanatory such as the existence of a newer version
+        of referenced I-D)
+                
 ### Document References
 
    17.  Should any informative references be normative or vice-versa?
