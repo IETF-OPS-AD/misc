@@ -72,34 +72,34 @@
 
    11.  Several IETF Areas have assembled [lists of common issues that
         their reviewers encounter][6].  Have such issues been identified
-        and addressed?  For which area does this still need to happen in
-        subsequent reviews?
+        and addressed? For which areas are subsequent reviews believed
+        particularly important to happen?
 
-   12.  What type of RFC publication is being requested ([Best Current
+   13.  What type of RFC publication is being requested ([Best Current
         Practice][12], [Proposed Standard, Internet Standard][13],
         [Informational, Experimental or Historic][14])?
 
         Why is this the appropriate type of RFC?
 
-   13.  If the document uses BCP 14 key words [18], does the document
+   14.  If the document uses BCP 14 key words [18], does the document
         follow the guidance in [19]?
 
         Have you noted any unclear or inappropriate use of key words?
 
-   14.  Have reasonable efforts (e.g., WGLC via the Datatracker) been
+   15.  Have reasonable efforts (e.g., WGLC via the Datatracker) been
         made to remind the WG of the intellectual property rights (IPR)
         disclosure obligations described in [BCP 79][7]?
 
         Please summarize any relevant discussion, including links to
         publicly available messages when applicable.
 
-   15.  Has each author, editor, and contributor shown their willingness
+   16.  Has each author, editor, and contributor shown their willingness
         to be listed as such?
 
         If the total number of authors and editors on the front page
         is greater than five, please provide a justification.
 
-   16.  Please list any remaining I-D nits in the version of the
+   17.  Please list any remaining I-D nits in the version of the
         document you reviewed.  Simply running the [idnits tool][8] is
         not enough; please review the ["Content Guidelines" on
         authors.ietf.org][15].  Idnits may display false positives;
