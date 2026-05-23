@@ -15,20 +15,20 @@
 
 ## Document History
 
-   1.   Does the working group (WG) consensus represent the strong
-        concurrence of a few individuals, with others being silent, or
-        was a broad agreement reached?
+   1.   Have the Chairs confirmed Working Group (WG) rough consensus
+        for this document? Did they indicate any issues to be called
+        out with regard to that rough consensus? If so, what were they?
 
-   2.   Was there controversy about particular points, or were there
+   3.   Was there controversy about particular points, or were there
         decisions where the consensus was particularly rough?
 
-   3.   Has anyone threatened an appeal or otherwise indicated extreme
+   4.   Has anyone threatened an appeal or otherwise indicated extreme
         discontent?  If so, please summarize the areas of conflict in
         separate email messages to the responsible Area Director.
         (NOTE: This should be in a separate email because this filled
         questionnaire will be publicly available.)
 
-   4.   For protocol documents, are there existing implementations of
+   5.   For protocol documents, are there existing implementations of
         the contents of the document?  If so, are those implementations
         reported somewhere, either in the document itself (as [RFC
         7942][3] recommends) or elsewhere (please state where)?
