@@ -61,27 +61,26 @@
 
 ## Document Shepherd Checks
 
-   9.   Will publication of the document be consistent with the
-        chartered objectives and deliverables of the WG?  In the
-        shepherd’s opinion which charter text covers the content of the
-        document?
+   9.   In the shepherd’s opinion, which charter text covers the content
+        of the document? Was there significant disagreement about whether
+        or not this document falls within the current charter?
 
-   10.  Based on your review, is this document clearly written,
+   11.  Based on your review, is this document clearly written,
         complete, technically accurate, correctly designed, and ready to
         be handed off to the responsible Area Director?
 
-   11.  Several IETF Areas have assembled [lists of common issues that
+   12.  Several IETF Areas have assembled [lists of common issues that
         their reviewers encounter][6].  Have such issues been identified
         and addressed?  For which area does this still need to happen in
         subsequent reviews?
 
-   12.  What type of RFC publication is being requested ([Best Current
+   13.  What type of RFC publication is being requested ([Best Current
         Practice][12], [Proposed Standard, Internet Standard][13],
         [Informational, Experimental or Historic][14])?
 
         Why is this the appropriate type of RFC?
 
-   13.  If the document uses BCP 14 key words [18], does the document
+   14.  If the document uses BCP 14 key words [18], does the document
         follow the guidance in [19]?
 
         Have you noted any unclear or inappropriate use of key words?
