@@ -28,9 +28,9 @@
         (NOTE: This should be in a separate email because this filled
         questionnaire will be publicly available.)
 
-   4.   For protocol documents, indidate whether there is an implementation
+   4.   For protocol documents, indicate whether there is an implementation
         policy put in place by the WG. If so, please remind that policy
-        and indicate whether thsis document adheres to that policy.  
+        and indicate whether this document adheres to that policy.  
      
         Are there existing implementations of the contents of the document?
         If so, are those implementations reported somewhere, either in
