@@ -19,9 +19,6 @@
         for this document? Did they indicate any issues to be called
         out with regard to that rough consensus? If so, what were they?
 
-   3.   Was there controversy about particular points, or were there
-        decisions where the consensus was particularly rough?
-
    4.   Has anyone threatened an appeal or otherwise indicated extreme
         discontent?  If so, please summarize the areas of conflict in
         separate email messages to the responsible Area Director.
