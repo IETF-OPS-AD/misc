@@ -13,6 +13,9 @@
    Note that some numbered items contain multiple related questions;
    please be sure to answer all of them.
 
+   It is highly appreciated to elaborate your answers with more contextual
+   information (as appropriate).
+
 ## Document History
 
    1.   Does the working group (WG) consensus represent the strong
@@ -42,9 +45,9 @@
         external organizations?  If so, please provide references to
         those reviews.
 
-   6.   Describe how the document meets any required formal expert
-        review criteria, such as the YANG Doctor, media type, and URI
-        reviews.
+   6.   Indicate the state of formal expert reviews (e.g., media type, URI)
+        that the document has undergone. Also, indicate whether any 
+        of such reviews is missing.
 
    7.   If the document contains a YANG module, does the document’s
         Datatracker page indicate that it has no errors and warnings?
