@@ -42,8 +42,9 @@
         external organizations?  If so, please provide references to
         those reviews.
 
-   6.   Describe how the document meets any required formal expert
-        review criteria, such as media type and URI reviews.
+   6.   Indicate the state of formal expert reviews (e.g., media type, URI)
+        that the document has undergone. Also, indicate whether any 
+        of such reviews is missing. 
 
    7.   If the document contains a YANG module, does the document’s
         Datatracker page indicate that it has no errors and warnings?
