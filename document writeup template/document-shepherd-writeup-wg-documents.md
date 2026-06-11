@@ -15,14 +15,17 @@
 
 ## Document History & Implementations
 
-   1.   Does the working group (WG) consensus represent the strong
-        concurrence of a few individuals, with others being silent, or
-        was a broad agreement reached?
+   1.   Have the Chairs confirmed Working Group (WG) consensus for
+        this document?  Did they indicate any issues to be called out
+        with regard to that rough consensus?  If so, what were they?
+        
+        Please supply any additional information about the quality
+        of the WG consensus from the Shepherd's view (e.g., whether
+        the consensus represent the strong concurrence of a few
+        individuals, with others being silent, or did it reach broad
+        agreement).
 
-   2.   Was there controversy about particular points, or were there
-        decisions where the consensus was particularly rough?
-
-   3.   Has anyone threatened an appeal or otherwise indicated extreme
+   4.   Has anyone threatened an appeal or otherwise indicated extreme
         discontent?  If so, please summarize the areas of conflict in
         separate email messages to the responsible Area Director.
         (NOTE: This should be in a separate email because this filled
