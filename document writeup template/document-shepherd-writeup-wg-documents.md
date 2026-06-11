@@ -24,6 +24,9 @@
         the consensus represent the strong concurrence of a few
         individuals, with others being silent, or did it reach broad
         agreement).
+        
+   2.   Was there significant disagreement about whether or not this
+        document falls within the current charter? If so, please elaborate.        
 
    4.   Has anyone threatened an appeal or otherwise indicated extreme
         discontent?  If so, please summarize the areas of conflict in
@@ -75,16 +78,11 @@
 
 ## Document Shepherd Checks
 
-   9.   Will publication of the document be consistent with the
-        chartered objectives and deliverables of the WG?  In the
-        shepherd’s opinion which charter text covers the content of the
-        document?
-
-   10.  Based on your review, is this document clearly written,
+   11.  Based on your review, is this document clearly written,
         complete, technically accurate, correctly designed, and ready to
         be handed off to the responsible Area Director?
 
-   11.  Several IETF Areas have assembled [lists of common issues that
+   12.  Several IETF Areas have assembled [lists of common issues that
         their reviewers encounter][6].  Have such issues been identified
         and addressed? For which areas are subsequent reviews believed
         particularly important to happen?
