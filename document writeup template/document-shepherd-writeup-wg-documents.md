@@ -98,7 +98,8 @@
    14.  If the document uses BCP 14 key words [18], does the document
         follow the guidance in [19]?
 
-        Have you noted any unclear or inappropriate use of key words?
+        Is there any use of the BCP 14 key words that could be
+        considered unclear or inappropriate? Please flag those.
 
    14.  Have reasonable efforts been made to remind the WG (including
         the document authors, editors, and contributors) about of
