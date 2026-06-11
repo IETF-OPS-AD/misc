@@ -52,7 +52,7 @@
         Has a YANGDOCTOR review been done on a recent version,
         indicating that it is ready for publication?
 
-        Does the document use the various templates in RFC 9907
+        Does the document use the various templates in [RFC 9907][20]
         (mainly, YANG module, Security, and IANA templates)?
 
    8.   Describe reviews and automated checks performed to validate
@@ -168,5 +168,6 @@
 [16]: https://www.ietf.org/about/groups/iesg/statements/normative-informative-references/ 
 [17]: https://datatracker.ietf.org/doc/downref/ 
 [18]: https://datatracker.ietf.org/doc/bcp14/ 
-[19]: https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-the-use-of-bcp-14-key-words/ 
+[19]: https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-the-use-of-bcp-14-key-words/
+[20]: https://www.rfc-editor.org/rfc/rfc7942.html
 
