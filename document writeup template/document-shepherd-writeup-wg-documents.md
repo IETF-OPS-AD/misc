@@ -15,7 +15,7 @@
 
 ## Document History
 
-   1.   Have the Chairs confirmed Working Group (WG) rough consensus for
+   1.   Have the Chairs confirmed Working Group (WG) consensus for
         this document?  Did they indicate any issues to be called out
         with regard to that rough consensus?  If so, what were they?
         
