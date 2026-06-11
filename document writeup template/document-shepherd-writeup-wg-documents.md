@@ -72,16 +72,16 @@
 
    11.  Several IETF Areas have assembled [lists of common issues that
         their reviewers encounter][6].  Have such issues been identified
-        and addressed?  For which area does this still need to happen in
-        subsequent reviews?
+        and addressed? For which areas are subsequent reviews believed
+        particularly important to happen?
 
-   12.  What type of RFC publication is being requested ([Best Current
+   13.  What type of RFC publication is being requested ([Best Current
         Practice][12], [Proposed Standard, Internet Standard][13],
         [Informational, Experimental or Historic][14])?
 
         Why is this the appropriate type of RFC?
 
-   13.  If the document uses BCP 14 key words [18], does the document
+   14.  If the document uses BCP 14 key words [18], does the document
         follow the guidance in [19]?
 
         Have you noted any unclear or inappropriate use of key words?
