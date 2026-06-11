@@ -12,6 +12,10 @@
 
    Note that some numbered items contain multiple related questions;
    please be sure to answer all of them.
+   
+   Some of the questions may not be applicable for a given document.
+   Feel free to indicate N/A or simply remove such questions from
+   your final write-up.   
 
 ## Document History & Implementations
 
