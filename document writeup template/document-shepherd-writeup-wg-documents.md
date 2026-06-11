@@ -128,11 +128,6 @@
         to be submitted to the IESG for publication or are otherwise in
         an unclear state?  If so, what is the plan for their completion?
 
-   21.  Will publication of this document change the status of any
-        existing RFC(s)?  If so, does the Datatracker metadata correctly
-        list those RFCs on the title page, in the abstract, and in the
-        introduction?
-
 ### IANA Considerations
 
    22.  Describe your review of the IANA considerations section,
