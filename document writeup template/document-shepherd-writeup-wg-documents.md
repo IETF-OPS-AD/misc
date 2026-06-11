@@ -100,12 +100,13 @@
 
         Have you noted any unclear or inappropriate use of key words?
 
-   15.  Have reasonable efforts (e.g., WGLC via the Datatracker) been
-        made to remind the WG of the intellectual property rights (IPR)
-        disclosure obligations described in [BCP 79][7]?
+   14.  Have reasonable efforts been made to remind the WG (including
+        the document authors, editors, and contributors) about of
+        the intellectual property rights (IPR) disclosure obligations
+        described in [BCP 79][7]?
 
         Please summarize any relevant discussion, including links to
-        publicly available messages when applicable.
+        publicly available messages when applicable (if any).
 
    16.  Has each author, editor, and contributor shown their willingness
         to be listed as such?
