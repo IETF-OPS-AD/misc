@@ -1,0 +1,101 @@
+# Document Shepherd Write-Up for Working Group Documents
+
+*This version is dated 09/10/2026.*
+
+Thank you for serving as a document shepherd. One of the responsibilities of the shepherd is to consider and answer the questions in this write-up to provide helpful context to Last Call and Internet Engineering Steering Group ([IESG][1]) reviewers. Your diligence in completing it is appreciated. The full role of the shepherd is described in [RFC 4858][2]. At a minimum, you will need the cooperation of the authors and editors to complete these checks. 
+
+Note that some numbered items contain multiple, related questions; please be sure to answer all of them. It is highly appreciated to elaborate your answers with more contextual information (as appropriate).
+
+When an item does not apply to the document, please indicate "N/A".
+
+NOTE: Please remove the above text when posting your write-up.
+
+## Document History & Implementations
+
+1.	Have the Chairs confirmed Working Group (WG) consensus for this document? Did they indicate any issues to be called out with regard to that rough consensus? If so, what were they?
+Please supply any additional information about the quality of the WG consensus from the Shepherd's view (e.g., whether the consensus represents the strong concurrence of a few individuals, with others being silent, or did it reach a broad agreement).
+
+2.	Indicate any significant disagreement in the WG about whether or not this document falls within the current charter.
+
+3.	If anyone threatened an appeal or otherwise indicated extreme discontent, please summarize the areas of conflict in separate email messages to the responsible Area Director. 
+(NOTE: This should be in a separate email because this completed questionnaire will be publicly available.)
+
+4.	For protocol documents, indicate whether the document adheres to the WG implementation policy (if any). Also, indicate whether there are existing (or planned) implementations and, if so, where they are listed. ([RFC 7942][3] recommends they be reported in the document itself).
+
+## Additional Reviews
+
+5.	Have reviews for the document happened in other IETF WGs or external organizations that you are aware of? If so, please provide references to those reviews (if any).
+
+6.	Describe the results of formal expert reviews (e.g., media type, URI) that the document has undergone. Also, indicate whether any of the required reviews are missing.
+
+7.	If the document contains a YANG module, does the document’s Datatracker page indicate that it has no errors and warnings?
+Has a YANGDOCTOR review been done on a recent version, indicating that it is ready for publication?
+Does the document use the various templates in [RFC 9907][4] (mainly, YANG module, Security, and IANA templates)?
+
+8.	Describe all reviews and automated checks performed to validate sections of the document written in a formal language, such as XML, JSON code, ABNF/RBNF/BNF rules, ASN.1, CBOR CDDL, etc.
+
+9.	Does the document describe any protocol elements that are intended for human interpretation and understanding? If so, does the document contain an Internationalization Considerations section that describes how those protocol elements are suitable for international use?
+
+## Document Shepherd Checks
+
+10.	Confirm that (in your opinion) this document is clearly written, complete, technically accurate, correctly designed, and ready to be handed off to the responsible Area Director.
+
+11.	Several IETF Areas have assembled [lists of common issues that their reviewers encounter][5]. Have such issues been identified and addressed? For which areas are subsequent reviews believed particularly important to happen?
+
+12.	What type of RFC publication is being requested ([Best Current Practice][6], [Proposed Standard, Internet Standard][7], [Informational, Experimental, or Historic][8])?
+Why is this the appropriate type of RFC?
+
+13.	Will publication of this document change the status of any existing RFC(s)? If so, does the Datatracker status page for this document correctly list those RFCs on the Title page, in the Abstract, and in the Introduction of the document?
+
+14.	If the document uses BCP 14 key words [9], does the document follow the guidance in the [IESG Statement on Clarifying the Use of BCP 14 Key Words][10]?
+Is there any use of the BCP 14 key words that could be considered unclear or inappropriate? Please flag those.
+
+15.	Confirm that reasonable efforts have been made to remind the WG (including the document authors, editors, and contributors) about the intellectual property rights (IPR) disclosure obligations described in [BCP 79][11].
+Please summarize any relevant discussion, including links to publicly available messages when applicable.
+
+16.	Confirm that each author, editor, and contributor has shown their willingness to be listed as such. If the total number of authors and editors on the front page is greater than five, please provide a justification.
+
+17.	Please list any remaining I-D nits in the version of the document you reviewed that you feel are actual errors. Simply running the [idnits tool][12] is not enough; please review the ["Content Guidelines" on authors.ietf.org][13]. Idnits may display false positives; please flag those and please briefly explain as needed.
+(NOTE: No need to provide explanation for common false positives that are self-explanatory such as the existence of a newer version of referenced I-D)
+
+### Document References
+
+18.	List any informative references that should be normative or vice-versa? If so, please list those.
+See the [IESG Statement on Normative and Informative References][14].
+
+19.	List any normative references that are not freely available to anyone. Does the community have sufficient access to review these references?
+
+20.	List any normative downward references (see [RFC 3967][15] and [BCP 97][16]) that are not already listed in the [DOWNREF registry][17].
+
+21.	List any normative references to documents that are not ready to be submitted to the IESG for publication or are otherwise in an unclear state. For each, indicate the plan for their completion, if known.
+
+### IANA Considerations
+
+22.	Describe your review of the IANA considerations section, especially its consistency with the body of the document.
+Confirm that all IANA requested actions are associated with the appropriate reservations in IANA registries.
+Confirm that any referenced IANA registries have been clearly identified.
+Confirm that each newly created IANA registry specifies its initial contents, allocation procedures, and a reasonable name (see [RFC 8126][18]).
+
+23.	List any new IANA registries that require Designated Expert Review for future allocations (Expert Review, Specification Required). If any, please confirm that the document includes guidelines for Designated Experts. Are these instructions to the Designated Expert clear?
+
+
+[1]: https://www.ietf.org/about/groups/iesg/ 
+[2]: https://www.rfc-editor.org/rfc/rfc4858.html 
+[3]: https://www.rfc-editor.org/rfc/rfc7942.html 
+[4]: https://www.rfc-editor.org/rfc/rfc9907.html
+[5]: https://wiki.ietf.org/group/iesg/ExpertTopics 
+[6]: https://www.rfc-editor.org/rfc/rfc2026.html#section-5 
+[7]: https://www.rfc-editor.org/rfc/rfc2026.html#section-4.1 
+[8]: https://www.rfc-editor.org/rfc/rfc2026.html#section-4.2 
+[9]: https://datatracker.ietf.org/doc/bcp14/ 
+[10]: https://datatracker.ietf.org/doc/statement-iesg-statement-on-clarifying-the-use-of-bcp-14-key-words/
+[11]: https://www.rfc-editor.org/info/bcp79 
+[12]: https://author-tools.ietf.org/idnits3/ 
+[13]: https://authors.ietf.org/en/content-guidelines-overview 
+[14]: https://www.ietf.org/about/groups/iesg/statements/normative-informative-references/
+[15]: https://www.rfc-editor.org/rfc/rfc3967.html 
+[16]: https://www.rfc-editor.org/info/bcp97 
+[17]: https://datatracker.ietf.org/doc/downref/ 
+[18]: https://www.rfc-editor.org/rfc/rfc8126.html 
+
+
