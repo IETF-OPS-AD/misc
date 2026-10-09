@@ -13,12 +13,14 @@ NOTE: Please remove the above text when posting your write-up.
 ## Document History & Implementations
 
 1.	Have the Chairs confirmed Working Group (WG) consensus for this document? Did they indicate any issues to be called out with regard to that rough consensus? If so, what were they?
-Please supply any additional information about the quality of the WG consensus from the Shepherd's view (e.g., whether the consensus represents the strong concurrence of a few individuals, with others being silent, or did it reach a broad agreement).
+
+    Please supply any additional information about the quality of the WG consensus from the Shepherd's view (e.g., whether the consensus represents the strong concurrence of a few individuals, with others being silent, or did it reach a broad agreement).
 
 2.	Indicate any significant disagreement in the WG about whether or not this document falls within the current charter.
 
 3.	If anyone threatened an appeal or otherwise indicated extreme discontent, please summarize the areas of conflict in separate email messages to the responsible Area Director. 
-(NOTE: This should be in a separate email because this completed questionnaire will be publicly available.)
+
+    (NOTE: This should be in a separate email because this completed questionnaire will be publicly available.)
 
 4.	For protocol documents, indicate whether the document adheres to the WG implementation policy (if any). Also, indicate whether there are existing (or planned) implementations and, if so, where they are listed. ([RFC 7942][3] recommends they be reported in the document itself).
 
@@ -29,8 +31,10 @@ Please supply any additional information about the quality of the WG consensus f
 6.	Describe the results of formal expert reviews (e.g., media type, URI) that the document has undergone. Also, indicate whether any of the required reviews are missing.
 
 7.	If the document contains a YANG module, does the document’s Datatracker page indicate that it has no errors and warnings?
-Has a YANGDOCTOR review been done on a recent version, indicating that it is ready for publication?
-Does the document use the various templates in [RFC 9907][4] (mainly, YANG module, Security, and IANA templates)?
+
+    Has a YANGDOCTOR review been done on a recent version, indicating that it is ready for publication?
+
+    Does the document use the various templates in [RFC 9907][4] (mainly, YANG module, Security, and IANA templates)?
 
 8.	Describe all reviews and automated checks performed to validate sections of the document written in a formal language, such as XML, JSON code, ABNF/RBNF/BNF rules, ASN.1, CBOR CDDL, etc.
 
@@ -43,7 +47,8 @@ Does the document use the various templates in [RFC 9907][4] (mainly, YANG modul
 11.	Several IETF Areas have assembled [lists of common issues that their reviewers encounter][5]. Have such issues been identified and addressed? For which areas are subsequent reviews believed particularly important to happen?
 
 12.	What type of RFC publication is being requested ([Best Current Practice][6], [Proposed Standard, Internet Standard][7], [Informational, Experimental, or Historic][8])?
-Why is this the appropriate type of RFC?
+
+    Why is this the appropriate type of RFC?
 
 13.	Will publication of this document change the status of any existing RFC(s)? If so, does the Datatracker status page for this document correctly list those RFCs on the Title page, in the Abstract, and in the Introduction of the document?
 
@@ -51,17 +56,19 @@ Why is this the appropriate type of RFC?
 Is there any use of the BCP 14 key words that could be considered unclear or inappropriate? Please flag those.
 
 15.	Confirm that reasonable efforts have been made to remind the WG (including the document authors, editors, and contributors) about the intellectual property rights (IPR) disclosure obligations described in [BCP 79][11].
-Please summarize any relevant discussion, including links to publicly available messages when applicable.
+
+    Please summarize any relevant discussion, including links to publicly available messages when applicable.
 
 16.	Confirm that each author, editor, and contributor has shown their willingness to be listed as such. If the total number of authors and editors on the front page is greater than five, please provide a justification.
 
 17.	Please list any remaining I-D nits in the version of the document you reviewed that you feel are actual errors. Simply running the [idnits tool][12] is not enough; please review the ["Content Guidelines" on authors.ietf.org][13]. Idnits may display false positives; please flag those and please briefly explain as needed.
-(NOTE: No need to provide explanation for common false positives that are self-explanatory such as the existence of a newer version of referenced I-D)
+    (NOTE: No need to provide explanation for common false positives that are self-explanatory such as the existence of a newer version of referenced I-D)
 
 ### Document References
 
 18.	List any informative references that should be normative or vice-versa? If so, please list those.
-See the [IESG Statement on Normative and Informative References][14].
+
+    See the [IESG Statement on Normative and Informative References][14].
 
 19.	List any normative references that are not freely available to anyone. Does the community have sufficient access to review these references?
 
@@ -72,9 +79,12 @@ See the [IESG Statement on Normative and Informative References][14].
 ### IANA Considerations
 
 22.	Describe your review of the IANA considerations section, especially its consistency with the body of the document.
-Confirm that all IANA requested actions are associated with the appropriate reservations in IANA registries.
-Confirm that any referenced IANA registries have been clearly identified.
-Confirm that each newly created IANA registry specifies its initial contents, allocation procedures, and a reasonable name (see [RFC 8126][18]).
+
+    Confirm that all IANA requested actions are associated with the appropriate reservations in IANA registries.
+
+    Confirm that any referenced IANA registries have been clearly identified.
+
+    Confirm that each newly created IANA registry specifies its initial contents, allocation procedures, and a reasonable name (see [RFC 8126][18]).
 
 23.	List any new IANA registries that require Designated Expert Review for future allocations (Expert Review, Specification Required). If any, please confirm that the document includes guidelines for Designated Experts. Are these instructions to the Designated Expert clear?
 
